@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Touliver1609\Desktop\LTTBDD\MyVideoPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Touliver1609\Desktop\LTTBDD\MyVideoPlayer\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_e870e85729ed2467202eff2a03be7162e538c4e5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Touliver1609\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Touliver1609\Desktop\LTTBDD\MyVideoPlayer\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_1d1bc918be7a01485fffc29c957bf2355b5fc25f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Touliver1609\Desktop\LTTBDD\MyVideoPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Touliver1609\Desktop\LTTBDD\MyVideoPlayer\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_fa92185d6a6cb5a35a6719afc0b96fdd3447a03d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Touliver1609\Desktop\LTTBDD\MyVideoPlayer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Touliver1609\Desktop\LTTBDD\MyVideoPlayer\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_6f26c4efc1325b0dec1fd58fb923b1477e90b062.jar" />
+    </item>
+
+</items>
